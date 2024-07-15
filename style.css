@@ -312,6 +312,11 @@ nav{
     margin-bottom: 7.93vw;
 }
 
+.box-container img{
+    height: 5.7vw;
+    width: 5.7vw;
+}
+
 .box-1{
     border-radius: 1.14vw;
     background: rgba(255, 76, 30, 0.05);
