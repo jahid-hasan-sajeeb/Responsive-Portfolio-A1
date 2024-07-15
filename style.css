@@ -37,6 +37,7 @@ nav{
 
 .banner{
     background-image: url("assets/hero-bg.png");
+    background-size: contain;
     display: flex;
     flex-direction: column;
     justify-content: center;
