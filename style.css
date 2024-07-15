@@ -519,8 +519,8 @@ nav{
     
     .purpose-container{
         padding: 8px 16px 8px 16px;
-        margin-left: 50px;
-        margin-right: 52px;
+        margin-left: 25px;
+        margin-right: 25px;
         margin-top: 25px;
         margin-bottom: 30px;
     }
@@ -648,7 +648,7 @@ nav{
     
     .box-description{
         font-size: 6px;
-        width: 95px;
+        width: 85px;
         margin-bottom: 8px;
         line-height: 9px;
     }
